@@ -58,6 +58,14 @@ Wisp은 안드로이드에서 JavaScript 스크립트로 메신저 메시지에 
 | --- | --- | --- | --- | --- |
 | ![밤하늘](docs/screenshots/theme-night.png) | ![새벽](docs/screenshots/theme-dawn.png) | ![저녁 노을](docs/screenshots/theme-sunset.png) | ![숲](docs/screenshots/theme-forest.png) | ![바다](docs/screenshots/theme-sea.png) |
 
+**태블릿**
+
+태블릿에서는 목록과 편집 화면이 나란히 보입니다.
+
+| 가로 모드 | 세로 모드 |
+| --- | --- |
+| ![태블릿 가로 모드](docs/screenshots/tablet/tablet-landscape.png) | ![태블릿 세로 모드](docs/screenshots/tablet/tablet-portrait.png) |
+
 ## 필요한 권한
 
 - **알림 접근**: 메신저 알림을 읽어 자동 응답하려면 필요합니다.
