@@ -22,7 +22,7 @@ Wisp은 안드로이드에서 JavaScript 스크립트로 메신저 메시지에 
 - `startCompile`: 스크립트가 시작될 때 한 번 실행됩니다.
 
 **시험하기**
-- 테스트룸: 알림 없이 카카오톡 채팅방처럼 생긴 화면에서 스크립트를 시험할 수 있습니다.
+- 시험방: 알림 없이 카카오톡 채팅방처럼 생긴 화면에서 스크립트를 시험할 수 있습니다.
 - 메시지 콘솔과 실행 로그에서 결과를 확인합니다.
 - 변수 화면에서 스크립트가 저장한 값을 볼 수 있습니다.
 
@@ -43,6 +43,20 @@ Wisp은 안드로이드에서 JavaScript 스크립트로 메신저 메시지에 
 
 **도움말**
 - 앱 안에 명령 예제와 API 설명이 들어 있습니다.
+
+## 스크린샷
+
+| 프로젝트 목록 | 스크립트 목록 | 스크립트 편집 | 설정 |
+| --- | --- | --- | --- |
+| ![프로젝트 목록](docs/screenshots/projects.png) | ![스크립트 목록](docs/screenshots/scripts.png) | ![스크립트 편집](docs/screenshots/editor.png) | ![설정](docs/screenshots/settings.png) |
+
+**테마**
+
+설정 → 테마에서 아래 다섯 가지 중 고를 수 있습니다.
+
+| 밤하늘 | 새벽 | 저녁 노을 | 숲 | 바다 |
+| --- | --- | --- | --- | --- |
+| ![밤하늘](docs/screenshots/theme-night.png) | ![새벽](docs/screenshots/theme-dawn.png) | ![저녁 노을](docs/screenshots/theme-sunset.png) | ![숲](docs/screenshots/theme-forest.png) | ![바다](docs/screenshots/theme-sea.png) |
 
 ## 필요한 권한
 
