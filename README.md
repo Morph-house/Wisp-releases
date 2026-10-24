@@ -22,3 +22,5 @@ Wisp은 안드로이드에서 스크립트를 작성하고 실행하는 앱입�
 ## 문의 및 버그 제보
 
 문제가 생기면 [Issues](https://github.com/Morph-house/Wisp-releases/issues) 탭에 남겨 주세요. 어떤 기기와 안드로이드 버전에서 발생했는지 함께 적어 주시면 도움이 됩니다.
+
+개발자와 직접 이야기하고 싶다면 카카오톡 오픈채팅방에 들어와 주세요: [Wisp 개발자 오픈채팅](https://open.kakao.com/o/g3wp7UBb)
